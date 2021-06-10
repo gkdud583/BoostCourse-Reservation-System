@@ -20,32 +20,32 @@
 
 <h2>동작</h2>
 
-<h3>메인화면</h3>
+<h3>메인페이지</h3>
 
 ![메인페이지 사진](https://user-images.githubusercontent.com/60775067/121348112-e9b71580-c962-11eb-825e-ad2f4bc5db83.jpg)
 
-<h3>상세보기화면</h3>
+<h3>각 항목의 상세페이지</h3>
 
 ![상세페이지 사진](https://user-images.githubusercontent.com/60775067/121347689-6eedfa80-c962-11eb-999c-f1aad6f66891.jpg)
 
-<h3>리뷰화면</h3>
+<h3>리뷰페이지</h3>
 
-![리뷰 페이지](https://user-images.githubusercontent.com/60775067/121347908-ae1c4b80-c962-11eb-9bfd-8d55d6fd77d5.jpg)
+![리뷰페이지](https://user-images.githubusercontent.com/60775067/121347908-ae1c4b80-c962-11eb-9bfd-8d55d6fd77d5.jpg)
 
-<h3>예약화면</h3>
+<h3>예약하기</h3>
 
-![예약화면](https://user-images.githubusercontent.com/60775067/121348235-0e12f200-c963-11eb-8c21-f07372546baa.jpg)
+![예약페이지](https://user-images.githubusercontent.com/60775067/121348235-0e12f200-c963-11eb-8c21-f07372546baa.jpg)
 
 
-<h3>로그인화면</h3>
+<h3>로그인</h3>
 
 ![로그인 화면](https://user-images.githubusercontent.com/60775067/121348302-271ba300-c963-11eb-8f88-a861be8b0301.jpg)
 
-<h3>예약확인화면</h3>
+<h3>나의 예매 내역 확인</h3>
 
 ![예약 확인 페이지](https://user-images.githubusercontent.com/60775067/121348367-3f8bbd80-c963-11eb-8e19-bd1de26ad926.jpg)
 
-<h3>리뷰작성화면</h3>
+<h3>리뷰 </h3>
 
 ![리뷰작성페이지](https://user-images.githubusercontent.com/60775067/121348428-516d6080-c963-11eb-8c5b-4103615ad6bd.jpg)
 
